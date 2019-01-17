@@ -1,0 +1,1 @@
+All of these were written about 5 years ago, so I'm not even sure if Подмножества and Разбиения directories contain valid algorithms. I keep them mostly for memories. My favourite one is Digital Root.
